@@ -50345,7 +50345,7 @@ N.a_q.prototype={
 $1:function(a){return!0},
 $S:19}
 F.zv.prototype={
-O:function(a,b){return new S.qm(C.xx,"Flutter Demo",X.a6E(null,C.jS),null)}}
+O:function(a,b){return new S.qm(C.xx,"Flutter UI Challenges",X.a6E(null,C.jS),null)}}
 N.zn.prototype={
 O:function(a,b){var s=null
 return M.a25(E.a15(L.j8("Flutter UI Challenges",s)),T.K8(T.Kv(H.a([T.dP(s,16,s),D.a1m(L.j8("Footer in Scrollable Column",s),new N.OP(b)),T.dP(s,16,s),D.a1m(L.j8("Horizontal ListView in Scrollable Column",s),new N.OQ(b))],t.F),C.hS),s,s))}}
